@@ -1,9 +1,3 @@
-Ficou muito legal a sua calculadora de IMC! É um excelente projeto para praticar entrada de dados, uso de biblioteca gráfica (`JOptionPane`) e estruturas condicionais em Java.
-
-Preparei um arquivo `README.md` completo, já formatado e pronto para você copiar e colar no seu repositório. Aproveitei para já deixar o link do seu perfil na seção de autor.
-
-Aqui está o código do README:
-
 ```markdown
 # Calculadora de IMC em Java ⚖️
 
